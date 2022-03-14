@@ -1,4 +1,4 @@
-# AirBnb-Toronto-Project
+# Airbnb - Toronto Market
 Using Pandas data frames in Python to analyze 15,000+ Airbnb listings, I created a Jupyter Notebook to investigate Airbnb’s Toronto market. Narrated throughout with relevant business questions, I took an advisory approach and used markdown to present my findings to a hypothetical audience of property owners considering to list their units.
 
 *To view Jupyter Notebook used for data scraping, see 'AirBnb Toronto.ipynb' file within this repository.
